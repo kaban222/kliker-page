@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+.btn{
+    border-radius: 6px;
+    width: 300px;
+    height: 30px;
+    font-family: 'Caveat', cursive;
+    font-size: 20;
+}
+.font1{
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    background-color: lightgray;
+    text-align: center;
+}
+.div1{
+    width:300;
+    height:30;
+}
+.f1{
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    
+}
+
+.f2{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.f3{
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+}
+
+.new1{
+    margin: 30pt 10px 30px 38%;
+}
